@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb 14 21:54:25 2021
+Created on mon Feb 19 13:50:20 2021
 
-@author: lehrs
 """
 
 import psycopg2
