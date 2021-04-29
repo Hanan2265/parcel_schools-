@@ -9,5 +9,7 @@ COPY volusia.parcel_schools from 'C:\temp\cs540\parcel_schools.txt' WITH (FORMAT
 
 To konw more about Nearest School Name and to find the distance see the PDF
 
+https://github.com/Hanan2265/parcel_schools-/blob/main/Student%20Presentation%20CS540.pdf
+
 
 
