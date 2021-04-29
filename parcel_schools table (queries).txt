@@ -58,3 +58,5 @@ CREATE INDEX parcel_geom_idx
 
 vacuum analyze volusia.parcel;
 
+----load table (download zip file in repository, extract to c:\temp\cs540)
+COPY (select * from volusia.parcel_schools) to 'C:\temp\cs540\parcel_schools.txt' WITH (FORMAT 'csv', DELIMITER E'\t', NULL '', HEADER);
